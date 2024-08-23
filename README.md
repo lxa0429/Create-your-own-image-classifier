@@ -20,7 +20,7 @@ There are two Python scripts provided:
 Optional arguments:
 
 - `--save_dir`: Directory to save the trained model.
-- `--arch`: Choose the neural network architecture. The default is AlexNet, but VGG13 can also be specified.
+- `--arch`: Choose the neural network architecture. The default is VGG16, but densenet121 can also be specified.
 - `--learning_r`: Set the learning rate for gradient descent. The default is 0.001.
 - `--hidden_units`: Specify the number of neurons in an additional hidden layer (int).
 - `--epochs`: Number of epochs (int). The default is 5.
